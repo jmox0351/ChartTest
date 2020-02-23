@@ -1,4 +1,2 @@
 nbinteract
 pandas
-json
-urllib
